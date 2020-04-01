@@ -4,4 +4,5 @@ const myFunct = (colorWord,color) =>{
     console.log(theWord)
     theWord.css('color',color)
 }
+
 export {myFunct}
